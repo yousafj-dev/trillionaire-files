@@ -11,9 +11,9 @@ drive) and the channel's gold chapter/number cards. Full log in CLIPS-USAGE.md.)
 
 ---
 
-## TITLE — 3 options, #1 is the recommendation
+## TITLE — FINAL (chosen by Yousaf, Oct 30, after YouTube title research)
 
-**1. (RECOMMENDED)**
+**FINAL TITLE — use this one:**
 ```
 How Jeff Bezos Made $102 Billion in One Month — The Trillionaire Race Nobody Saw Coming
 ```
